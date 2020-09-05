@@ -1,0 +1,10 @@
+.FakeData {
+  border: 1px solid gray;
+  border-radius: 10px;
+  background-color: #a9dfbf;
+  color: #e74c3c;
+  width: 500px;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+}
