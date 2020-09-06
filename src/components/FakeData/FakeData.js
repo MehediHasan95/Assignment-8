@@ -13,7 +13,7 @@ const FakeData = (props) => {
         <div className="FakeData">
           <h1>UserID-{userId}</h1>
           <h2>ID-{id}</h2>
-          <Button color="secondary">
+          <Button variant="outlined" color="secondary">
             {" "}
             <Link to={`/FakeDataDetails/${id}`}>More Details</Link>
           </Button>
